@@ -26,7 +26,7 @@
 ## T-Tests on Suspension Coils
 
 # All Lots - Cumulative
-![All Lots](Resources/Images/all_lots.png?raw=true "All Lots One-Sample T-Test")
+![All Lots](Resources/Images/all_lots_.png?raw=true "All Lots One-Sample T-Test")
 - We ran a one-sample t-test on the statistical significance of the recorded PSI measures against a population of 1500 people. The results came back statistically insignificant as the p-value of the t-test was 0.06028 which is > 0.05. This test was run for PSI statistics across all lots together.
 
 
