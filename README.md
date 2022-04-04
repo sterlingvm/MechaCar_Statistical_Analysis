@@ -26,22 +26,22 @@
 ## T-Tests on Suspension Coils
 
 # All Lots - Cumulative
-![All Lots](Resources/Images/all_lots.jpg?raw=true "All Lots One-Sample T-Test")
+![All Lots](Resources/Images/all_lots.png?raw=true "All Lots One-Sample T-Test")
 - We ran a one-sample t-test on the statistical significance of the recorded PSI measures against a population of 1500 people. The results came back statistically insignificant as the p-value of the t-test was 0.06028 which is > 0.05. This test was run for PSI statistics across all lots together.
 
 
 # Lot 1
-![Lot 1](Resources/Images/lot_1.jpg?raw=true "Lot 1 One-Sample T-Test")
+![Lot 1](Resources/Images/lot_1.png?raw=true "Lot 1 One-Sample T-Test")
 - We ran a one-sample t-test on the statistical significance of the recorded PSI measures for Lot 1 individually agaisnt a population of 1500 people. The results came back statistically insignificant as the p-value of the t-test was 1 which is > 0.05. 
 
 
 # Lot 2
-![Lot 2](Resources/Images/lot_2.jpg?raw=true "Lot 2 One-Sample T-Test")
+![Lot 2](Resources/Images/lot_2.png?raw=true "Lot 2 One-Sample T-Test")
 - We ran a one-sample t-test on the statistical significance of the recorded PSI measures for Lot 2 individually agaisnt a population of 1500 people. The results came back statistically insignificant as the p-value of the t-test was 0.6072 which is > 0.05. 
 
 
 # Lot 3
-![Lot 3](Resources/Images/lot_3.jpg?raw=true "Lot 3 One-Sample T-Test")
+![Lot 3](Resources/Images/lot_3.png?raw=true "Lot 3 One-Sample T-Test")
 - We ran a one-sample t-test on the statistical significance of the recorded PSI measures for Lot 3 individually agaisnt a population of 1500 people. The results came back statistically significant as the p-value of the t-test was 0.04168 which is < 0.05. This means that the PSI measurements recorded within Lot 3 individually are stastically accurate measurments as compared to data that would be collected in the real world for a lot full of 1500 cars. This means that research moving forward that uses Lot 3 data would be statistically accurate and reliable data to use for real, effective, and impactful studies for real world projections. 
 
 
